@@ -4,6 +4,7 @@ y = input('Enter a number:' )
 y = int(y)
 x =  3
 z = x * y
+int q
 
 if z > 2 : 
     print('I love you!')
