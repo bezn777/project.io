@@ -1,3 +1,2 @@
-# Initial resp
+# Application of MATLAB 
 
-Trying GitHub
